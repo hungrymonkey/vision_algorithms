@@ -36,3 +36,13 @@
       - k_nn.m  - nearest neighbors
       
       
+* Papers
+* Otsu
+ - https://engineering.purdue.edu/kak/computervision/ECE661.08/OTSU_paper.pdf
+* Edge Detection
+ - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.301.927&rep=rep1&type=pdf
+ - Canny Edge Detection http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf
+ - Sobel Edge Detection https://ieeexplore.ieee.org/document/996/metrics#metrics
+* Principal Component Analysis
+ - http://cda.psych.uiuc.edu/statistical_learning_course/Jolliffe%20I.%20Principal%20Component%20Analysis%20(2ed.,%20Springer,%202002)(518s)_MVsa_.pdf
+ - https://www.cs.cmu.edu/~elaw/papers/pca.pdf
