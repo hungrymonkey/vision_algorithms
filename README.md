@@ -37,6 +37,8 @@
       
       
 ## Papers
+* Fundemental Matrix
+  - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.462.4708&rep=rep1&type=pdf
 * Otsu
   - https://engineering.purdue.edu/kak/computervision/ECE661.08/OTSU_paper.pdf
 * Edge Detection
