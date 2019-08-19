@@ -36,7 +36,7 @@
       - k_nn.m  - nearest neighbors
       
       
-* Papers
+## Papers
 * Otsu
   - https://engineering.purdue.edu/kak/computervision/ECE661.08/OTSU_paper.pdf
 * Edge Detection
