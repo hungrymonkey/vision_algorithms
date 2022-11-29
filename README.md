@@ -9,9 +9,9 @@
       - render.m  Render the image based on albedo files
 
 - Corner Detection 
-  * Sobel 
+  * Sift 
     + Related Files
-       - corner_detect.m  Sobel Corner detection
+       - corner_detect.m  Sift Corner detection
        - sparse_stereo.m  Normalized Sum of Squared Difference matching.
        - nssd.m Normalized  Sum of Squared Difference. Black and White
        - nssd_color.m  Normalized Sum of Squared Difference. RGB color
@@ -44,9 +44,8 @@
 * Edge Detection
   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.301.927&rep=rep1&type=pdf
   - Canny Edge Detection http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf
-  - Sobel Edge Detection 
-    + https://ieeexplore.ieee.org/document/996/metrics#metrics
-    + https://pdfs.semanticscholar.org/6bca/fdf33445585966ee6fb3371dd1ce15241a62.pdf
+  - Sift Edge Detection 
+    + https://www.cs.tau.ac.il/~turkel/imagepapers/comparison_sift-harris-corner.pdf
 * Principal Component Analysis
   - http://cda.psych.uiuc.edu/statistical_learning_course/Jolliffe%20I.%20Principal%20Component%20Analysis%20(2ed.,%20Springer,%202002)(518s)_MVsa_.pdf
   - https://www.cs.cmu.edu/~elaw/papers/pca.pdf
